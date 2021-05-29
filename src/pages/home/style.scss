@@ -1,0 +1,18 @@
+@import '../../shared/ui/styles/Variabels';
+
+.content-area {
+    display:flex;
+    justify-content: space-between;
+    height: 100%;
+    background-color: #b2c9f5;
+    .list-area {
+        
+        min-width: 300px;
+        text-align: center;
+        background: rgb(158, 189, 247);
+    }
+    .view-area {
+     width: 80%;
+     
+    }
+}

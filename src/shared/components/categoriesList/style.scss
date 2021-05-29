@@ -1,0 +1,13 @@
+@import '../../ui//styles/Variabels';
+
+.category-list-item {
+    cursor: pointer;
+    color: cornsilk;
+    min-height: 30px;
+    margin: 20px auto;
+}
+
+.category-list-item:hover {
+    background-color: darkgray;
+    color: rgb(55, 86, 88);
+}
